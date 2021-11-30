@@ -20,5 +20,5 @@ Le langage utilise est : Python 3 et mysql
 <img src="/Conception-et-r-alisation-d-une-base-de-donn-es-pour-l-enregistrement-des-naissances-en-utilisant-Py/Classe.png" alt="Diagramme de classe"/>
 
 ##
-Pour les enregistrements des naissances des enfants nous passont par grâce à la commande cursor.execute (" INSERT INTO ")
+Pour les enregistrements des naissances des enfants nous passont grâce à la commande cursor.execute (" INSERT INTO ")
 ###
