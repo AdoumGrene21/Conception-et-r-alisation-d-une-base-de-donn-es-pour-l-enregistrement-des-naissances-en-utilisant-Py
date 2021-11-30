@@ -12,3 +12,7 @@ Comment écrire des commit et faire des branches ?
 ###
 Comment rester en contact avec l’équipe ?
 ###
+- Diagramme de Cas d'utilisation
+- Diagramme de Classe 
+###
+Le langage utilise est : Python 3 et mysql
