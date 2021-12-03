@@ -11,6 +11,11 @@ Le système à mettre en place sera développé avec le langage Python. Il perme
 ## A propos des auteurs
 <a href="https://github.com/AdoumGrene21"> Adoum ahmat GRENE</a>
 
+<a href="https://github.com/Mbaitelsem"> Mbaitelsem Miakakem</a>
+
+<a href="https://github.com/Mallaimy"> Abakar (aslias Mallaimy) </a>
+
+<a href="https://github.com/fredifils"> FREDERIC DANIMBE</a>
 
 
 
