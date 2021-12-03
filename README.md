@@ -13,7 +13,7 @@ Le système à mettre en place sera développé avec le langage Python. Il perme
 
 <a href="https://github.com/Mbaitelsem"> Mbaitelsem Miakakem</a>
 
-<a href="https://github.com/Mallaimy"> Abakar (aslias Mallaimy) </a>
+<a href="https://github.com/Mallaimy"> Abakar Mahamat Mallah (aslias Mallaimy) </a>
 
 <a href="https://github.com/fredifils"> FREDERIC DANIMBE</a>
 
