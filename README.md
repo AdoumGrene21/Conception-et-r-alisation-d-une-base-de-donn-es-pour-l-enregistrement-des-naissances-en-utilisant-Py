@@ -1,4 +1,4 @@
-# projet
+# projett
 Conception-et-r-alisation-d-une-base-de-donn-es-pour-l-enregistrement-des-naissances-en-utilisant-Py
 Mettre sur pied une base de données pour l’enregistrement des naissances en utilisant Python et MySQL.
 https://python.antoinepernot.fr/cours.php?course=chap6
@@ -16,7 +16,7 @@ Le système à mettre en place sera développé avec le langage Python. Il perme
 
 <a href="https://github.com/Mbaitelsem"> Mbaitelsem Miakakem</a>
 
-<a href="https://github.com/Mallaimy"> Abakar (aslias Mallaimy) </a>
+<a href="https://github.com/Mallaimy"> Abakar Mahamat Mallah (aslias Mallaimy) </a>
 
 <a href="https://github.com/fredifils"> FREDERIC DANIMBE</a>
 
