@@ -27,6 +27,8 @@ CREATE TABLE `enfant` (
   `nom` varchar(150) NOT NULL,
   `prenom` varchar(150) NOT NULL,
   `sexe` varchar(150) NOT NULL,
+  `date` varchar(150) NOT NULL,
+  `lieu` varchar(150) NOT NULL,
   `id_parent` int NOT NULL,
   `id_fonctionnaire` int NOT NULL,
   PRIMARY KEY (`id`),
